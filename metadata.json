@@ -1,0 +1,8 @@
+{
+  "name": "Abraj Bousher - Report 1",
+  "description": "Weekly Meta Paid Ads Performance Report",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
